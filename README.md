@@ -5,7 +5,8 @@ TLDRs of DE-related books
 ** DM me on Slack if you want a soft copy of the books**
 - Intro to Data Engineering [completed]
 - Fundamentals of Data Engineering
-    - Chapter 1 [incomplete]
+    - Chapter 1 [completed]
+    = Chapter 2 [incomplete]
 
 ---
 ## Other TLDRs
